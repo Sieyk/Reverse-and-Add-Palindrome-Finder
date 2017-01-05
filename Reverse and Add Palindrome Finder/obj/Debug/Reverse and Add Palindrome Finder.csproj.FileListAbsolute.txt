@@ -1,0 +1,5 @@
+c:\users\sieyk\documents\visual studio 2015\Projects\Reverse and Add Palindrome Finder\Reverse and Add Palindrome Finder\bin\Debug\Reverse and Add Palindrome Finder.exe.config
+c:\users\sieyk\documents\visual studio 2015\Projects\Reverse and Add Palindrome Finder\Reverse and Add Palindrome Finder\bin\Debug\Reverse and Add Palindrome Finder.exe
+c:\users\sieyk\documents\visual studio 2015\Projects\Reverse and Add Palindrome Finder\Reverse and Add Palindrome Finder\bin\Debug\Reverse and Add Palindrome Finder.pdb
+c:\users\sieyk\documents\visual studio 2015\Projects\Reverse and Add Palindrome Finder\Reverse and Add Palindrome Finder\obj\Debug\Reverse and Add Palindrome Finder.exe
+c:\users\sieyk\documents\visual studio 2015\Projects\Reverse and Add Palindrome Finder\Reverse and Add Palindrome Finder\obj\Debug\Reverse and Add Palindrome Finder.pdb
